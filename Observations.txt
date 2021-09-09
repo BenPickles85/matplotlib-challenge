@@ -1,0 +1,4 @@
+1) The Ramicane and Capomulin treatment regimens appear to be the two most effective treatment regimens based on final tumor size (smallest) - tumor volume boxplot. 
+2) Based on an r vaue of 0.71 (scatter plot with linear regression), there is a strong correlation between mouse weight and average tumor volume for the mice in the Capomulin regimen
+3) There is an amost even split between male and female mice across the whole study (gender pie charts). However, as we have not measured the gender split for each treatment group, 
+	we cannot rule this out as yet as a potential source of bias. 
